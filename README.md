@@ -16,7 +16,7 @@ A simple, reliable, and immersive way to flip overturned vehicles in FiveM using
 1. Drag and drop the folder into your `resources/` directory
 2. Add the following to your `server.cfg`:
 
-ensure EKS_VehicleFlipper
+     ensure EKS_VehicleFlipper
 
 3. Start or restart your server | no configuration required.
 
